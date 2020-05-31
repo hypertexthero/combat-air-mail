@@ -1,6 +1,6 @@
 # Combat Air Mail  
 
-A quick single player mission for [IL-2 Sturmovik][i] where you need to land on an unprepared field to deliver mail. Beware enemies intent on stopping your delivery. Read more about the mission goals in [this post][m].
+A quick single player mission for video game flight simulator *[IL-2 Sturmovik][i]* where you need to land on an unprepared field to deliver mail. Beware enemies intent on stopping your delivery. Read more about the mission goals in [this post][m].
 
 By [Simon =Hypertexthero= Griffee][h].
 
@@ -8,7 +8,11 @@ By [Simon =Hypertexthero= Griffee][h].
 [m]:https://hypertexthero.com/combat-air-mail/
 [h]:https://hypertexthero.com/
 
-**Install** by moving the Combat Air Mail folder into your IL-2 installation’s `data/Missions` folder, then access it by clicking on Missions in the video game’s main menu.
+## Installation
+
+1. [Download the mission files](https://github.com/hypertexthero/combat-air-mail/archive/master.zip), then double-click `combat-air-mail-master.zip` to open the archive.
+2. Move the **Combat Air Mail** folder into your IL-2 installation’s `data/Missions` folder.
+3. Start *IL-2 Sturmovik* and access the mission by clicking on **Missions** in IL-2’s main menu.
 
 ## Credits
 
