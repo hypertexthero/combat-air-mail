@@ -1,5 +1,7 @@
 # Combat Air Mail  
 
+<img style="float:right; margin:0 0 10px 10px;" src="Combat-Air-Mail-Logo.png" alt="Combat Air Mail logo." width="100">
+
 A quick single player mission for video game flight simulator *[IL-2 Sturmovik][i]* where you need to land on an unprepared field to deliver mail. Beware enemies intent on stopping your delivery. Read more about the mission goals in [this post][m].
 
 [i]: https://il2sturmovik.com/
