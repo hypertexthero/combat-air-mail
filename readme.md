@@ -19,4 +19,5 @@ A quick single player mission for video game flight simulator *[IL-2 Sturmovik][
 **IL-2 Sturmovik** by **1C Game Studios**, **777 Studios**: <https://il2sturmovik.com/>  
 **Short applause** sound file from **nc3studios08**: <https://freesound.org/people/nc3studios08/sounds/354038/>  
 **Long applause** sound file from **FunWithSound**: <https://freesound.org/people/FunWithSound/sounds/381357/>  
-**IL-2 Mission Editor manual** by JimTM: <https://forum.il2sturmovik.com/topic/26303-il-2-sturmovik-mission-editor-and-multiplayer-server-manual/>
+**IL-2 Mission Editor manual** by JimTM: <https://forum.il2sturmovik.com/topic/26303-il-2-sturmovik-mission-editor-and-multiplayer-server-manual/>  
+**Logotype** by Simon Griffee: <https://www.simongriffee.com/>
